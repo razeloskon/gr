@@ -7,7 +7,7 @@ license_url: 'https://commons.wikimedia.org/wiki/File:Wii-console.jpg'
 license_text: Courtesy of wikimedia
 categories:
   - archetypes
-  tags:
+tags:
   - Game
   - Interaction
- ---
+  ---
