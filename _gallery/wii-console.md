@@ -1,5 +1,4 @@
 ---
-
 author: razeloskon
 title: wii-console
 image_url: /images/wii.jpg
@@ -11,5 +10,4 @@ categories:
   tags:
   - Game
   - Interaction
-  
----
+ ---
